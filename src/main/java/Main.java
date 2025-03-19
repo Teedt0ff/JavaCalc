@@ -1,14 +1,11 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
-
-// import org.junit.jupiter.api.Test;
+import javax.swing.JOptionPane;
+//Import statement is not needed for calculator class as it is inferred to be in the same package. 
 
 public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello world!");
-  }
+  //Application Variables
 
-  // @Test
-  // void addition() {
-  //     assertEquals(2, 1 + 1);
-  // }
+  
+  public static void main(String[] args) {
+    
+  }
 }
